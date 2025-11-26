@@ -1,3 +1,4 @@
 # flower-grow
 Game where you need to grow a flower
-FlowerActor.cpp contains the main code logic.
+To play the game just istall the app on your computer
+The main logic is contained in the FlowerActor.cpp
